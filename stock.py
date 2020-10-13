@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 
 st.write(""" # Stock Market Web App	
-Shown are the stock **closing price** and **volume**
+Shown are the stocks **closing price** and **volume** '\n'
 **Visually** show data on a stock!	
 """)
 
