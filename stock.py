@@ -3,9 +3,9 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
-st.write(""" # Stock Market Web App
-**Visually** show data on a stock!				
+st.write(""" # Stock Market Web App	
 Shown are the stock **closing price** and **volume**
+**Visually** show data on a stock!	
 """)
 
 # need a cool image
