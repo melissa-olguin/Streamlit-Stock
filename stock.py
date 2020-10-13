@@ -9,7 +9,7 @@ Shown are the stock **closing price** and **volume**
 """)
 
 # need a cool image
-image = Image.open("C:/Users/lil_e/Desktop/stockIMG.jpg")
+image = Image.open("stockIMG.jpg")
 st.image(image, use_column_width=True)
 
 
